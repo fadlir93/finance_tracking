@@ -1,7 +1,6 @@
-# README
+# FINANCE TRACKING 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is Finance Tracking Application
 
 Things you may want to cover:
 
